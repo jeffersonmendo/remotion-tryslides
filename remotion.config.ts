@@ -8,6 +8,14 @@
 import { Config } from "@remotion/cli/config";
 
 Config.setRspack(true);
-Config.setVideoImageFormat("jpeg");
+// Prioritize fidelity over render time and file size for final CLI exports.
+Config.setVideoImageFormat("png");
+Config.setStillImageFormat("png");
+Config.setCodec("h264");
+Config.setCrf(1);
+Config.setX264Preset("slow");
+Config.setAudioBitrate("320k");
+Config.setHardwareAcceleration("disable");
+Config.setColorSpace("bt709");
 Config.setOverwriteOutput(true);
 Config.setDefaultPremountInSeconds(2);

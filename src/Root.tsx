@@ -1,9 +1,4 @@
-import { MyComposition } from "./Composition";
-
 export const RemotionRoot: React.FC = () => {
-  return (
-    <>
-      <MyComposition />
-    </>
-  );
+  // Register approved video compositions here; resource packages alone are not videos.
+  return null;
 };
