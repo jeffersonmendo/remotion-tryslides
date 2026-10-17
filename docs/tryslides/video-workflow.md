@@ -4,7 +4,7 @@
 
 Plan and collect the video before starting its final edit. Keep its brief, script, audiovisual timeline, assets, recording instructions, feedback, decisions, and review together. This applies to every video type, not only tutorials.
 
-Shared product and visual facts remain in `docs/tryslides/`. Individual production packages live in `resources/<video-slug>/`; do not create a second competing package in `docs/videos/`.
+Each package represents one required 12–20 minute long-form source video and all its derivatives. Do not create a new package for each short, reel, cover, or post, and do not use this workflow to start a standalone short-form production. Shared product and visual facts remain in `docs/tryslides/`. Individual production packages live in `resources/<video-slug>/`; do not create a second competing package in `docs/videos/`.
 
 ## Create the starting structure
 
@@ -58,7 +58,7 @@ The detailed timeline belongs in `timeline.md`, not in a second storyboard maint
 
 ## Delivery family
 
-Follow [deliverables and exports](deliverables-and-exports.md). For an approved long-form package, plan the 12–20 minute video together with four 40–60 second vertical cutdowns, a YouTube thumbnail, four covers, and a 1080 × 1080 social post. Keep their specifications/status in `deliverables.md` and their edit decisions in `timeline.md`. Share sources, not competing production packages. A smaller commercial or a different approved scope does not need to follow the long-form duration.
+Follow [deliverables and exports](deliverables-and-exports.md). For every production, plan the required 12–20 minute source video together with four 40–60 second vertical cutdowns from that video, one YouTube thumbnail, four covers, and one 1080 × 1080 social post. Keep their specifications/status in `deliverables.md` and their edit decisions in `timeline.md`. Share sources, not competing production packages. Commercial or social treatments are scenes or derivatives of this production family, not exceptions that allow a short-only production.
 
 Existing packages are not migrated or overwritten by the generator. If one predates `deliverables.md`, add that planning file during its next relevant update.
 
@@ -74,7 +74,7 @@ Suggested status labels are **Planning**, **Awaiting materials**, **Ready for ed
 
 ### Ready-for-editing checklist
 
-- The brief, current script, timeline, and intended delivery inventory are populated and approved by the owner, including the visual/audio approach and any required derivative outputs.
+- The brief, current script, timeline, and delivery inventory are populated and approved by the owner, including the 12–20 minute source video, four 40–60 second cutdowns, thumbnail, four covers, square post, and their visual/audio approach. Each derivative is mapped to this source production.
 - Each scene has its required evidence and available source material, or an explicitly approved plan to create the graphic/audio material during production.
 - Recording requests, sources, rights, and private-information handling are resolved for required material.
 - Blocking factual questions and conflicting decisions are resolved.

@@ -12,6 +12,10 @@ This chapter covers the production workflow and delivery review; the audiovisual
 
 Follow [the video workflow](video-workflow.md). Create or locate the video's `resources/<video-slug>/` package before writing its production plan. Keep the brief, script, timeline, material inventory, and recording checklist there. Confirm owner approval and required material readiness before the final edit; an empty scaffold is not readiness.
 
+## Long-form first
+
+Every production starts with one 12–20 minute source video and includes its four 40–60 second cutdowns, thumbnail, covers, and square post. Short-form and promotional techniques below apply to scenes or derivatives of that source video; they do not authorize short-only productions. See [deliverables and exports](deliverables-and-exports.md).
+
 ## Plan a clear outcome
 
 Give each video one main audience, one main point, and one primary action. Use [the brief](video-brief.md) to record these choices. A general overview can connect several features, but a short feature video should demonstrate one coherent result rather than enumerate every toolbar button.
@@ -66,7 +70,7 @@ For narrated videos, tighten the voice edit first: remove failed takes, unnecess
 - Keep the voiceover intelligible; music should support it rather than compete with it.
 - Use licensed or owned music, voice, images, and footage. Do not invent a sonic identity or imply an unapproved voice is the official brand voice.
 
-For a 30-second narrated video, roughly 55–70 words is a starting writing budget, not a performance claim or rigid rule. Read it aloud and adjust timing around the actual demonstration. Silence can be more useful than filling every second.
+For a 30-second narrated scene within the source video, roughly 55–70 words is a starting writing budget, not a standalone-video specification, performance claim, or rigid rule. Read it aloud and adjust timing around the actual demonstration. Silence can be more useful than filling every second.
 
 ## Keep revisions manageable
 

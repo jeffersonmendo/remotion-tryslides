@@ -6,7 +6,8 @@ The complete template below is useful for understanding the plan, but do not mai
 
 ## Intent
 
-- Video type: commercial, feature announcement, demonstration, explainer, tutorial, social clip, or another stated format.
+- Required source: one 12–20 minute long-form video; state its editorial approach, such as a tutorial, demonstration, or explainer.
+- Derivative relationship: all shorts/reels and supporting images belong to this source production, not separate short-form projects.
 - Working title:
 - Audience:
 - Viewer need:
@@ -15,8 +16,8 @@ The complete template below is useful for understanding the plan, but do not mai
 - Language:
 - Intended channel and viewing context:
 - Target duration, aspect ratio, resolution, and frame rate:
-- Approved delivery family and any departure from the long-form default:
-- Link to `deliverables.md`: one long video, four cutdowns, thumbnail/covers, and square post where applicable; see [deliverables and exports](deliverables-and-exports.md):
+- Required delivery family: one 12–20 minute source video, four 40–60 second vertical cutdowns, one YouTube thumbnail, four covers, and one 1080 × 1080 post:
+- Link to `deliverables.md`: the source video and all four cutdowns, thumbnail/covers, and square post; see [deliverables and exports](deliverables-and-exports.md):
 
 ## Product grounding
 

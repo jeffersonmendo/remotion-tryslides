@@ -21,6 +21,10 @@ The shared [audiovisual direction](audiovisual-direction.md) applies to commerci
 | [Video brief](video-brief.md)                           | Record the decisions and revision notes for an individual video                                            |
 | [Sources and maintenance](sources-and-maintenance.md)   | Verify facts and refresh this reference as TrySlides changes                                               |
 
+## Required production model
+
+Every new production starts with a 12–20 minute long-form video. Its four 40–60 second vertical shorts/reels, YouTube thumbnail, four covers, and 1080 × 1080 social post are derived deliverables of that same video, not independent short-form or image-only productions. Different editorial treatments do not change this requirement. Follow [deliverables and exports](deliverables-and-exports.md).
+
 ## How to use this reference
 
 1. Understand the relevant product feature and its limits before proposing a scene.

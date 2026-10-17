@@ -2,13 +2,13 @@
 
 ## One production, a family of content
 
-**Owner-requested delivery direction:** for a long-form production, plan one **12–20 minute video**, approximately **four 40–60 second vertical cutdowns** derived from that video, a YouTube thumbnail, a cover for each short/reel, and a **1080 × 1080 social post**.
+**Required production model:** every new production starts with one **12–20 minute long-form video**. From that same source video, create **four 40–60 second vertical cutdowns**, one YouTube thumbnail, one cover per short/reel, and one **1080 × 1080 social post**.
 
-Treat this as the default long-form package, not a rule that every commercial must last twelve minutes. Confirm the package in the brief. Do not pad a topic to reach the duration or invent four weak clips when the source does not support them; propose a scope adjustment for approval instead.
+This is mandatory for every production, not an optional package selected only for tutorials. A new short, reel, commercial cutdown, or image must belong to an existing or planned long-form source production; it is not a substitute for that source video. Confirm the source and derivative mapping in the brief before editing. If a topic cannot sustain a useful 12–20 minute video and four worthwhile cutdowns, revise the topic or report the planning blocker rather than padding the runtime, inventing weak clips, or silently switching to a short-only production.
 
 These are outputs of this video-production project, not video-export features of the TrySlides presentation product. They remain part of the same production package and share its slug, source material, and decisions.
 
-## Default delivery matrix
+## Required delivery matrix
 
 Sizes below are project production defaults unless explicitly attributed to a platform. They are not a list of universal upload requirements. Start video exports at 30 fps; retain a deliberately chosen alternative when the brief calls for it.
 

@@ -75,13 +75,13 @@ Follow the installed Remotion skills for the actual timing structure, connected 
 
 - A landscape and vertical cut with different framing or timing should have separate composition registrations and clear IDs. They can share useful scene components while keeping format-specific layout deliberate.
 - A resolution-only export does not require copying the entire video implementation. Follow the actual output requirements and installed rendering guidance.
-- Keep variants of the same production in the same source directory unless they develop into separate productions. Record the canonical video and variants in the package index and timeline.
+- Keep delivery variants and derivatives of the same source video in its source directory; they are not separate short-form productions. Record the canonical video and variants in the package index and timeline.
 - Use Remotion `<Folder>` groups when they improve Studio navigation, for example a group per production with delivery variants and clearly separated supporting scenes. Do not impose a large category hierarchy before it is useful.
 - Render to a distinct output path, such as `out/getting-started/landscape.mp4`, so one video or variant does not overwrite another. Record export paths in the package index. Do not overwrite an approved export merely because the renderer permits it.
 
 ## Long-form delivery families
 
-Follow [deliverables and exports](tryslides/deliverables-and-exports.md). A long-form package includes the main video, four derived short/reel compositions, one YouTube-thumbnail Still, four cover Stills, and one square-post Still, unless the owner approves a different scope. Keep them under the same production slug and map them in `deliverables.md`.
+Follow [deliverables and exports](tryslides/deliverables-and-exports.md). Every production includes one 12–20 minute source-video composition, four derived 40–60 second short/reel compositions, one YouTube-thumbnail Still, four cover Stills, and one 1080 × 1080 square-post Still. This is the required structure, not an optional long-form variant. Do not register a standalone short-only production. Keep them under the same production slug and map them in `deliverables.md`.
 
 Organize cutdowns and static designs in local `shorts/` and `stills/` directories when needed. Share useful scene/layout implementations but register independently editable deliveries explicitly, with unique IDs. Keep supporting scene registrations separate from the deliverable count. Do not create empty source files or registrations during resource scaffolding.
 

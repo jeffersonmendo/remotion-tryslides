@@ -112,7 +112,9 @@ This illustrative structure is not a required template or a claim about a comple
 
 The colors and child-oriented presentation are example creative choices, not TrySlides brand requirements. Do not invent HEX values as existing brand facts or imply this is a catalog template.
 
-## Adapt the treatment to the video
+## Adapt the treatment within a long-form production
+
+Every production starts with a 12–20 minute source video; four 40–60 second shorts/reels and supporting images derive from it. The treatments below describe scenes, storytelling approaches, and derived edits, not permission to start standalone commercials or social clips. See [the required delivery family](deliverables-and-exports.md).
 
 | Video type            | Primary job                                            | Editorial emphasis                                                                      |
 | --------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------- |

@@ -63,6 +63,10 @@ The reviewed font catalog explicitly records redistribution under SIL Open Font 
 
 These destinations come from the repository. Public availability and the deployed version were not checked during this documentation task. Verify the intended destination before using it as a CTA. Public documentation references are not testimonials or proof of release status.
 
+## Production-model decision
+
+The owner clarified that every production must start with a 12–20 minute long-form source video, with four 40–60 second shorts/reels and the supporting images derived from that same video. Earlier wording treating long-form as optional or allowing standalone commercial/short-form productions has been superseded. This is a project workflow decision, not a product capability or platform restriction. See [deliverables and exports](deliverables-and-exports.md).
+
 ## Per-video learning
 
 [The video workflow](video-workflow.md) defines `resources/<video-slug>/` as the per-video production and learning record. Feedback, accepted decisions, and final review have separate roles. Reusable lessons should propose precise, owner-approved improvements to the relevant shared chapter, supported by scenes and outcomes, without converting every local exception into a universal rule.

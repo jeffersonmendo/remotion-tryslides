@@ -2,7 +2,7 @@
 
 The production workspace for TrySlides videos: plan the story, prepare recordings and other materials, build and edit scenes, preview compositions, and document what improves the result.
 
-This project supports commercials, feature announcements, product demonstrations, explainers, tutorials, and social videos. Remotion powers the composition, preview, and rendering workflow; it is the tool behind the workspace, not the subject of the videos.
+Every production starts with a **12–20 minute long-form video**. From that same video, create **four 40–60 second vertical shorts/reels**, a YouTube thumbnail, four covers, and a **1080 × 1080 social post**. Shorts and promotional images are derivatives, not standalone productions. Editorial treatment can include demonstrations, explanations, tutorials, announcements, and promotional scenes. Remotion powers the composition, preview, and rendering workflow; it is the tool behind the workspace, not the subject of the videos.
 
 This is not the TrySlides presentation application or a standalone screen recorder. Capture real product footage with an appropriate recording tool, then combine it here with narration, images, animated text, explanations, music, and sound effects.
 
@@ -98,7 +98,7 @@ Use distinct export paths for videos and variants so one production does not ove
 
 ## Long-form delivery package
 
-For a long-form production, plan one 12–20 minute video, four distinct 40–60 second vertical cutdowns from it, one YouTube thumbnail, one cover per cutdown, and a 1080 × 1080 social post. Keep all outputs under the same production package.
+Every production must include one 12–20 minute source video, four distinct 40–60 second vertical cutdowns from that same video, one YouTube thumbnail, one cover per cutdown, and a 1080 × 1080 social post. Keep all outputs under the same production package.
 
 Use `deliverables.md` for output specifications, source mapping, composition/Still IDs, approvals, versioned paths, and export checks. Follow [deliverables and exports](docs/tryslides/deliverables-and-exports.md) for reframing, thumbnails, platform checks, and acceptance. This is a production plan, not an automatic batch-export or publishing command.
 

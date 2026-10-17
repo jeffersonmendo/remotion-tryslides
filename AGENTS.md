@@ -2,7 +2,7 @@
 
 ## Project purpose
 
-This project creates and maintains TrySlides videos with Remotion. Work includes product research, ideas, briefs, scripts, storyboards, visual design, animation, editing, captions, audio, and review. Do not treat the project documentation as a resource only for writing scripts.
+Every new production in this project starts with one 12–20 minute long-form TrySlides video. Four 40–60 second vertical shorts/reels and the supporting images are derived from that same video and kept in its production package. Do not start standalone short-form or image-only productions. Remotion powers composition and editing. Work includes product research, ideas, briefs, scripts, storyboards, visual design, animation, editing, captions, audio, and review. Do not treat the project documentation as a resource only for writing scripts.
 
 ## Required reference
 
@@ -37,11 +37,11 @@ Load the applicable skills from `.agents/skills/` before implementation. Use the
 
 ## Starting a new video
 
-For a new commercial, announcement, explainer, demonstration, tutorial, or social video, prepare a coherent production plan before implementing scenes:
+For every new production, plan the 12–20 minute source video and its derivative delivery family before implementing scenes. Commercial, announcement, explainer, demonstration, and tutorial treatments describe editorial choices, not exceptions to the long-form requirement:
 
 1. Create or locate `resources/<video-slug>/` following the video workflow. Use `npm run create-video -- <video-slug>` for a new empty package. Define the audience, objective, main takeaway, language, intended channel, duration, format, and CTA. Mark reasonable production assumptions explicitly; do not turn them into product facts.
 2. Ground the topic in the product reference and identify the exact workflow to demonstrate.
-3. Use the brief template to prepare the script, storyboard, visual direction, material requirements, and delivery inventory together. For a long-form production, plan one 12–20 minute video, four distinct 40–60 second vertical cutdowns, one YouTube thumbnail, four vertical covers, and one 1080 × 1080 social post unless the owner approves a different package.
+3. Use the brief template to prepare the script, storyboard, visual direction, material requirements, and delivery inventory together. Always plan one 12–20 minute source video, four distinct 40–60 second vertical cutdowns from it, one YouTube thumbnail, four vertical covers, and one 1080 × 1080 social post. Keep every derivative tied to that source video; do not substitute a standalone short or ad for the long-form production.
 4. For each beat, specify the message, scene type, timing, voiceover or music cue, visual representation, on-screen copy, entry/exit, sound effects where useful, product evidence, and required materials. Do not return only narration with generic screen-recording instructions.
 5. Separate work the agent can create from recordings, approvals, or assets the user must supply.
 6. Before final editing, confirm owner approval of the plan, inspect required materials, and record readiness or exact blockers in the package index. Empty files are not an approved plan. Explicitly requested rough animatics may use clearly identified placeholders.
