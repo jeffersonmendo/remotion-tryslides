@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import { mkdir, lstat, realpath, writeFile } from "node:fs/promises";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
