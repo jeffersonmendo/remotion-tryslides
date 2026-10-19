@@ -18,7 +18,7 @@ Date: 2026-10-17. Status: Draft awaiting owner approval.
 
 ## Product grounding
 
-- Manual workflow: desktop → blank presentation → text and shapes → Base → one Step → state-specific Click interactions → Present → HTML/PDF inspection.
+- Manual workflow: desktop → blank presentation → text and transparent PNG planet images → Base → one Step → state-specific Click interactions → Present → HTML/PDF inspection.
 - Build from blank; solar-system example is not a catalog template. No MCP or external AI connection in this production.
 - Presentation: Our solar system; one slide, Base and one Earth detail Step. Eight labeled planet markers; only Earth is interactive. Caption near the overview: “Click Earth to explore”.
 - Scientific scope: ordered planet names and Earth as third planet from Sun. All graphics explicitly simplified; sizes/distances not to scale. No orbital animation, orbital speed or scale claims.
@@ -31,9 +31,9 @@ Date: 2026-10-17. Status: Draft awaiting owner approval.
 ## Visual direction
 
 - Editorial graphics: Paper #F4F1E9, Ink #242322, Blue #4565EE; Geist. These are production recommendations, not a new brand book.
-- Lesson artwork: neutral light background, dark text, Sun amber, Earth blue, other circles restrained; labels and order numbers carry meaning independently of color. Circles are illustrative markers, not scientific photography.
-- Use native editable shapes and text inside TrySlides; no external photos required. Original logo/font source paths tracked in assets; no replacements invented.
-- Mix actual UI/action evidence, progressive concept diagrams, captured before/after comparison, result playback and short chapter titles. No persistent idle editor background.
+- Lesson artwork: owner-selected Dark presentation theme, black background and contrasting light text (D008) and separate transparent PNG images for each planet, per owner decision D004. Keep a consistent visual style; labels and order numbers carry meaning independently of color. Eight AI-generated planet masters are now supplied; originals/alpha verified. Owner selected uniform visual globe sizes and removed reduced import copies (D006). They are illustrative, not scientific photographs; live import and owner approval remain pending. Sun artwork is now supplied as `images/masters/09-sun-master.png` per owner request D007; import it with the eight planet masters.
+- Use separate PNG planet images and editable text inside TrySlides. Preserve the same Earth image element between Base and the detail Step; do not replace it with a fresh import. Generated provenance is recorded in images/generation-manifest.json. Read images/README.md before capture: import the masters directly, use uniform globe sizing without stretching Saturn, and retain the same Earth element for the Step enlargement. Original logo/font source paths tracked in assets; no replacements invented.
+- Mix actual UI/action evidence, progressive concept diagrams, annotated hierarchy explanation over the actual finished overview (D011; no before/after), result playback and short chapter titles. No persistent idle editor background.
 - Start with full context; crop controls only when teaching them, then return to the result. Vertical versions are separately reframed.
 - Direct cuts for continuous work; restrained fades for chapter changes; Earth match cut to explain identity. No decorative motion on every click.
 

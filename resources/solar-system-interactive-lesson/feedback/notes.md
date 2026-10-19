@@ -1,5 +1,11 @@
 # Feedback notes
 
+## F002 · 2026-10-18 · Owner capture preference
+
+- R02 was recorded with the Mac's native screen recorder and the browser tab full-screen.
+- Owner does not want OBS for this production and plans to use it for the next video.
+- Addressed by D003; continue capture instructions without requiring a recorder switch.
+
 ## F001 · 2026-10-17 · Owner
 
 - Request: recommend the first target audience, prepare an English script and create the video resource package. Owner also asked exactly what they need to find and record.
@@ -7,3 +13,28 @@
 - Addressed: English script and populated package; explicit per-shot checklist; no external image search required for shape-led lesson.
 - Interpretation: “create the video in resources” is treated as preparing the production package, not permission to skip material and approval gates. No rendered-video completion claimed.
 - Open: approve recommended teacher audience, brief, narration, storyboard and delivery family; assign voice provider; supply and verify real captures.
+
+
+## F003 · 2026-10-18 · Owner planet sizing feedback
+
+Owner prefers equal-size planet visuals instead of unequal sizes. Explicitly requested deleting other image variants and keeping masters. Addressed by D006; no image regeneration or master alteration requested.
+
+## F004 · 2026-10-18 · Owner R02 hand-off and dark lesson direction
+
+Owner supplied `recordings/R02-create-presentation-take01.mov` and described creating the presentation, adding the title, adding `Where is Earth?`, then choosing the Dark theme for the intended dark tone. Addressed by D008; current-file metadata and tail samples checked. This hand-off does not approve the full production plan.
+
+## F005 · 2026-10-18 · Number master files for import
+
+Owner requested numeric filename prefixes so the planet masters can be sorted in solar-system order when selecting files. Addressed by D009.
+
+## F006 · 2026-10-18 · Reverse master filename ordering
+
+Owner corrected the requested order: reverse it so the Sun is last. Addressed by D010.
+
+## F007 · 2026-10-18 · Owner R03 hand-off
+
+Owner completed R03 in two parts: 01 imports, arranges and resizes planets; 02 adds labels. Both expected MOVs exist and metadata was inspected. Record as sequential parts, not replacement takes. Visual review and acceptance pending. No full-plan approval inferred.
+
+## F008 · 2026-10-18 · Owner omits R04
+
+Owner states a separate R04 capture is unnecessary because the design adjustments were minimal. Accepted as local production direction D011, not a visual-quality assessment or full plan approval.

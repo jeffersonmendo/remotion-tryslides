@@ -15,21 +15,21 @@ Production slug: `solar-system-interactive-lesson`. Version: v01, 2026-10-17.
 ## Confirmed vs proposed
 
 - Confirmed by owner: English video; prepare script/resources and explain owner capture/material needs.
-- Recommended, not yet approved: teacher audience, shape-based solar-system example, detailed script/storyboard and delivery designs.
+- Recommended, not yet approved: teacher audience, transparent-PNG solar-system example (planet imagery approved by owner; broader plan still pending), detailed script/storyboard and delivery designs.
 - Facts: grounded in project/product source guides; running deployment and exported behavior have NOT been checked.
 
 ## Exact blockers
 
 1. Owner approval of brief, script, storyboard, audience and full family.
-2. Real product capture R01–R09 and lesson source/export files E01–E03, including live labels/build and privacy clearance.
+2. Remaining product captures R01/R05–R09 and lesson source/export files E01–E03; R02 and both R03 parts are supplied, but complete visual/privacy clearance remains pending.
 3. English voice provider assignment and actual recorded narration; clean voice is required, music is optional.
 4. Material inspection, brand/font clearance and any selected audio licenses.
 
-No screen recordings, images, voice or exported lesson files have been supplied. No user behavior or interface has been simulated as evidence. No placeholder animatic authorized.
+R02 has been supplied as `recordings/R02-create-presentation-take01.mov` and received a metadata/sample-frame review on 2026-10-18. Other recordings, voice and lesson export files are still missing. Eight generated planet masters are now supplied; reduced copies were removed per D006; see [image import instructions](images/README.md). No user behavior or interface has been simulated as evidence. No placeholder animatic authorized.
 
 ## Locations and preview
 
-- Source archive: this package; recordings/, images/, audio/ currently contain only .gitkeep.
+- Source archive: this package; recordings/ now contains the original R02 MOV; images/ contains only the eight master PNG assets under masters/, plus documentation/provenance; audio/ still contains only .gitkeep.
 - Proposed future implementation: `src/videos/solar-system-interactive-lesson/` (not created).
 - Proposed future public media: `public/videos/solar-system-interactive-lesson/` (not created; never copy private raw recordings wholesale).
 - Proposed export root: `out/solar-system-interactive-lesson/v01/` (not created).
@@ -37,4 +37,16 @@ No screen recordings, images, voice or exported lesson files have been supplied.
 
 ## Next action
 
-Owner reviews the plan. Then dry-run the real product and capture R02 → R03 → R04 → R05 → R06 → R07 → R08 → R09 → R01, following recording-checklist.md. No external image hunt is required. Assign the English voice provider before audio production. Update readiness after actual media inspection and approval.
+Owner reviews the plan. R02 is supplied; retain its Dark presentation theme. Then dry-run the remaining product actions and capture R05 → R06 → R07 → R08 → R09 → R01, following recording-checklist.md. Agent-created transparent planet masters are supplied for a uniform-size overview; see images/README.md and verify live import before recording. Assign the English voice provider before audio production. Update readiness after actual media inspection and approval.
+
+## R02 intake · 2026-10-18
+
+Current file rechecked: 3024 × 1898, H.264, 25.150 seconds, 4,504,837 bytes, no audio stream; average stream rate 2520/89 (~28.31 fps), not verified constant frame rate. This supersedes the earlier 29.408-second / 3,811,361-byte intake description at the same path. Tail frames at 24.0 and 24.7 seconds show the Dark theme card and its applied result: black slide, white heading, gray question. Owner confirms creation → title → question → Dark theme; D008 records this local direction. Only tail samples reviewed in this update, not complete playback/privacy clearance. End sample still has question selected; start R03 with a deselected five-second hold. Preserve original MOV; do not stretch the non-16:9 source or request a retake solely for its format.
+
+## Sun asset added · 2026-10-18
+
+Nine masters now exist: eight planets plus `images/masters/09-sun-master.png`. Import the Sun before Mercury and label it Sun. See images/README.md. Supersedes native-shape Sun recommendation; size/alpha checked and generated output viewed.
+
+## R03 intake · 2026-10-18
+
+Both original MOVs are present: `R03-build-overview-take01.mov` (70.37 s) and `R03-build-overview-take02.mov` (92.97 s). Owner identifies them as consecutive sections: planet import/layout/sizing, then labels. Metadata checked: both 3024 × 1898 H.264 without audio. Visual content/continuity/privacy review pending; do not discard take01 as superseded. See assets.md for exact metadata. R04 is omitted by owner decision D011 because adjustments were minimal. R05 is the next capture; no staged design problems or before/after required.

@@ -1,16 +1,18 @@
 # Owner capture checklist — v01
 
-Status: Requested, not supplied or inspected. First approve the plan and do a product dry run. If the interface differs, send a screenshot and environment/version instead of guessing. Final narration should wait until the dry run confirms the actions.
+Status: R02 received and sample frames inspected; R03 received as two consecutive MOV parts with metadata checked, visual review pending. R01/R05–R09 still requested; R04 omitted by owner decision D011. First approve the plan and do a product dry run. If the interface differs, send a screenshot and environment/version instead of guessing. Final narration should wait until the dry run confirms the actions.
 
 ## What you need to find or supply
 
 **Required from owner:** a desktop TrySlides session authorized for the demonstration; the nine recordings below; the editable `.tryslides` example, actual exported HTML and PDF; approval of the English script; an assigned English voice provider. The recommended audience is teachers, pending approval.
 
-**No image hunt required:** create all planet markers with circles and text in the editor. Do not look for photos, a solar-system template, stock footage, customer logos or testimonials. No music search is required now. The agent will prepare explanatory graphics, thumbnails/covers and caption layouts after approval. Existing original logo/fonts can be sourced from the product repo with their notices.
+**Updated by owner, 2026-10-18 (D006):** import the eight agent-generated transparent PNGs from `images/masters/`. Reduced copies were deleted at owner request. Use uniform visual globe sizing in the overview; preserve aspect ratio and allow Saturn's rings extra width. See [image instructions](images/README.md). No external planet search is needed. Source imagery is AI-generated and not scientifically to scale; actual import/appearance still needs live verification. No stock footage, customer logos or music search is required now.
 
 **Optional:** if you prefer to narrate, supply a 20-second English dry-read sample before recording the complete script, then clean per-scene WAV files after approval (48 kHz, 24-bit if available, quiet room, no music/noise processing baked in, 3 seconds room tone at ends). Otherwise the voice provider is still an open production assignment; no paid or synthetic service has been chosen.
 
 ## Common capture settings (all R01–R09)
+
+- Owner decision, 2026-10-18: use the native Mac screen recorder for this production; OBS is deferred to the next video. Keep the same full-screen framing as R02, preserve original MOV files and inspect actual timing/resolution on arrival. The 30 fps target below is the original planning baseline, not a requirement to replace the recorder or force its output to constant fps. Final cadence is still unresolved.
 
 - English interface and English presentation text. Desktop browser, notifications off, clean test account, no private deck names, emails, avatars, billing, bookmarks, other tabs or desktop files visible. Do not record credentials or Google login; start already signed in.
 - Capture the product window at native 3840 × 2160 / 30 fps if the display supports it while controls remain readable; otherwise native 1920 × 1080 / 30 fps. Do not upscale a smaller recording. Use normal browser zoom; adjust only to restore readable controls and record any deviation.
@@ -23,34 +25,35 @@ Status: Requested, not supplied or inspected. First approve the plan and do a pr
 
 ## Build and capture order
 
-Record R02 → R03 → R04 → R05 → R06 → R07 → R08 → R09; record the result-first R01 last. Keep the same presentation and object identities throughout. Dry run first; do not narrate over the capture unless separately agreed.
+Record R02 → R03 → R05 → R06 → R07 → R08 → R09; record the result-first R01 last. Keep the same presentation and object identities throughout. Dry run first; do not narrate over the capture unless separately agreed.
 
 ### R02 · Create the presentation · S03
 
+Received: `R02-create-presentation-take01.mov` (2026-10-18). Current-file tail samples confirm English title/question and Dark presentation theme applied. Metadata rechecked: 25.150 seconds, 4,504,837 bytes, H.264, 3024 × 1898, average rate 2520/89 (~28.31 fps), no audio stream; not verified constant frame rate. This supersedes the earlier 29.408-second file metadata. Full playback/privacy acceptance pending. Preserve original; add a clean deselected five-second result hold at the beginning of R03 rather than repeating creation solely for a hold.
+
 - Start: signed-in English presentations list; no private content visible.
-- Actions: create a blank presentation using the actual current create control; name it `Our solar system`; select its slide; add text from toolbar; choose H1 if offered; type `Our solar system`; add `Where is Earth?` as supporting text.
+- Actions: create a blank presentation using the actual current create control; name it `Our solar system`; select its slide; add text from toolbar; choose H1 if offered; type `Our Solar System`; add `Where is Earth?` as supporting text; select the presentation theme `Dark` for the owner-selected dark lesson backdrop.
 - Result: title, subtitle, left slide navigation, canvas and properties readable. Hold 5 seconds.
 - File: `R02-create-presentation-take01.mp4`. Required; owner capture.
 - Exact create-control label is not established by the source guide. Confirm it in the dry run; do not stage a fake label.
 
 ### R03 · Build the overview · S04
 
-- Start: R02 presentation, Base state, heading visible.
-- Actions: choose circle from shape toolbar; build a Sun marker and eight labeled planet markers; label in order `Mercury`, `Venus`, `Earth`, `Mars`, `Jupiter`, `Saturn`, `Uranus`, `Neptune`; use order numbers 1–8 if wrapping to two rows; give Earth a blue fill and text label. Add `Simplified diagram — sizes and distances not to scale` and `Click Earth to explore`.
+Received as two consecutive parts, not alternative takes (owner report, 2026-10-18): `R03-build-overview-take01.mov` imports, arranges and resizes planets; `R03-build-overview-take02.mov` adds labels. Preserve both filenames/originals; editing order is take01 → take02. File presence and metadata checked; content, continuity, clean holds, Sun, qualification text and privacy still require visual review.
+
+- Start: the same R02 presentation, Base state, Dark theme retained, heading and question visible. Deselect all elements and hold the clean slide for 5 seconds before importing images.
+- Actions: import the Sun from `images/masters/09-sun-master.png` and the eight original `images/masters/<NN>-<planet>-master.png` files from the device; use uniform visual globe sizing with room for Saturn’s rings; place them on the canvas and add editable text labels; label in order `Mercury`, `Venus`, `Earth`, `Mars`, `Jupiter`, `Saturn`, `Uranus`, `Neptune`; use order numbers 1–8 if wrapping to two rows; keep Earth identifiable from its image and text label. Add `Simplified diagram — sizes and distances not to scale` and `Click Earth to explore`.
 - Result: legible schematic with no false scale implication. Earth is the third planet marker; only Earth will be interactive. Hold full diagram 5 seconds.
-- File: `R03-build-overview-take01.mp4`. Required; owner capture. Record all actions even if repetitions will be shortened later.
+- File: `R03-build-overview-take01.mp4`. Required; owner capture. Record all actions even if repetitions will be shortened later. Import the high-resolution Earth master from the start; retain the same element when creating the detail Step. No source replacement is needed.
 
-### R04 · Improve hierarchy · S05
+### R04 · Omitted · D011
 
-- Start: a real, readable but unrefined version of R03 (labels need alignment, not an unusable caricature).
-- Actions: hold before 5 seconds; enlarge heading; normalize label sizes, align labels and move collisions; remove a redundant explanatory paragraph only if one actually exists. Do not invent a broken layout just for the video.
-- Result: clear question, consistent labels and breathing room; hold after 5 seconds. If already polished, capture a reversible legitimate refinement and disclose it as a design comparison.
-- File: `R04-refine-hierarchy-take01.mp4`. Required; owner capture. This before/after feeds SH02 and its cover.
+Owner declined a separate refinement capture because adjustments were minimal. No R04 file is required. S05/SH02/CV02 will explain hierarchy using the actual finished R03 result after visual review, not an invented before/after. Next capture: R05.
 
 ### R05 · Create the Earth Step · S06
 
 - Start: polished Base with Earth visible; Steps controls visible.
-- Actions: add a Step from Steps controls; use a recognizable Earth name if naming is supported; select the existing/inherited Earth object, enlarge and reposition it; rearrange other content for the focused view. Do not duplicate Earth into an independent object. Switch Base → new Step → Base to demonstrate state independence.
+- Actions: add a Step from Steps controls; use a recognizable Earth name if naming is supported; select the existing/inherited Earth image element, enlarge and reposition it; rearrange other content for the focused view. Do not duplicate Earth into an independent object or reimport its PNG in the detail Step. Switch Base → new Step → Base to demonstrate state independence.
 - Result: Base still has the overview; the detail has the same Earth in focus. Hold each state 5 seconds.
 - File: `R05-earth-step-take01.mp4`. Required; owner capture. Record the actual destination name shown by the interface for R07.
 
