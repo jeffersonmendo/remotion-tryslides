@@ -78,3 +78,7 @@ Source: F006. Supersedes D009 filename ordering: 01 Neptune, 02 Uranus, 03 Satur
 ## D011 · 2026-10-18 · Omit the separate R04 refinement capture
 
 Source: F008, explicit owner decision. Reason: adjustments were minimal; no separate refinement recording is wanted. R04 is no longer required. Supersedes its required-capture status and the S05/SH02/CV02 before/after treatment. Keep the hierarchy teaching beat, using actual finished R03 material and editorial emphasis after source review; do not stage defects or imply undocumented changes. Script, timeline, brief, asset inventory, delivery inventory and next capture updated. Tradeoff: no transformation comparison, but avoids redundant capture and preserves the teaching point. R05 is next. Timing remains provisional; R03 visual/privacy review and broader approvals remain pending.
+
+## D012 · 2026-10-19 · Match the recorded return label Back
+
+Source: F010, owner-created R06 text control. Scope: this lesson only. Current script, timeline and capture instructions use the supplied `Back` label instead of planned `Back to overview`; destination remains Base. Shorter label trades explicit destination wording for brevity; keep narration clear about the return destination. Label is visible in screenshot, not evidence of a saved interaction. Verify Base text after owner-reported content replacement before proceeding. No full plan approval or completed playback proof inferred.

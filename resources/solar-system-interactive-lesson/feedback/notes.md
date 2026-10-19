@@ -38,3 +38,11 @@ Owner completed R03 in two parts: 01 imports, arranges and resizes planets; 02 a
 ## F008 · 2026-10-18 · Owner omits R04
 
 Owner states a separate R04 capture is unnecessary because the design adjustments were minimal. Accepted as local production direction D011, not a visual-quality assessment or full plan approval.
+
+## F009 · 2026-10-19 · R05 supplied with overview text retained
+
+Owner reports creating Step 1, moving other images/labels outside and enlarging Earth while retaining the original title/question. Screenshot and sample-frame review support that layout. Handle retained overview copy in R06; no full production approval inferred.
+
+## F010 · 2026-10-19 · Owner R06 hand-off
+
+Owner supplied R06 and screenshot, reporting replacement of heading/description plus addition of `Back` text. Screenshot supports the detail layout; file/metadata confirmed. No full video review or working navigation inferred.

@@ -50,3 +50,7 @@ The current file differs from the earlier intake metadata: 25.150 seconds and 4,
 ## R04 scope revision · 2026-10-18 · D011
 
 Owner omitted separate refinement capture because changes were minimal. Current S05/SH02/CV02 planning now uses the real finished R03 result with explanatory emphasis rather than before/after proof. Narration and resource dependencies aligned; no visual quality approval inferred. R03 still needs visual/privacy review; revised runtime must be checked against actual narration. No code, media, render or public output changed.
+
+## R05 limited review · 2026-10-19
+
+Metadata, owner screenshot and extracted frames at 1/15/29s reviewed. Earth is enlarged at right in Step 1 with space for text left; overview heading/question still visible. Preserve capture and finish detail copy in R06. No full playback, Base round-trip/identity proof, final privacy acceptance or export review claimed. Container duration is 33.538333s but a 32s seek yielded no image; decoded-tail/timing investigation remains pending.

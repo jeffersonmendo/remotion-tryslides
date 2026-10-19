@@ -21,7 +21,7 @@ Production slug: `solar-system-interactive-lesson`. Version: v01, 2026-10-17.
 ## Exact blockers
 
 1. Owner approval of brief, script, storyboard, audience and full family.
-2. Remaining product captures R01/R05–R09 and lesson source/export files E01–E03; R02 and both R03 parts are supplied, but complete visual/privacy clearance remains pending.
+2. Remaining product captures R01/R07–R09 and lesson source/export files E01–E03; R02 and both R03 parts are supplied, but complete visual/privacy clearance remains pending.
 3. English voice provider assignment and actual recorded narration; clean voice is required, music is optional.
 4. Material inspection, brand/font clearance and any selected audio licenses.
 
@@ -37,7 +37,7 @@ R02 has been supplied as `recordings/R02-create-presentation-take01.mov` and rec
 
 ## Next action
 
-Owner reviews the plan. R02 is supplied; retain its Dark presentation theme. Then dry-run the remaining product actions and capture R05 → R06 → R07 → R08 → R09 → R01, following recording-checklist.md. Agent-created transparent planet masters are supplied for a uniform-size overview; see images/README.md and verify live import before recording. Assign the English voice provider before audio production. Update readiness after actual media inspection and approval.
+Owner reviews the plan. R02 is supplied; retain its Dark presentation theme. Then dry-run the remaining product actions and capture R07 → R08 → R09 → R01, following recording-checklist.md. Agent-created transparent planet masters are supplied for a uniform-size overview; see images/README.md and verify live import before recording. Assign the English voice provider before audio production. Update readiness after actual media inspection and approval.
 
 ## R02 intake · 2026-10-18
 
@@ -50,3 +50,11 @@ Nine masters now exist: eight planets plus `images/masters/09-sun-master.png`. I
 ## R03 intake · 2026-10-18
 
 Both original MOVs are present: `R03-build-overview-take01.mov` (70.37 s) and `R03-build-overview-take02.mov` (92.97 s). Owner identifies them as consecutive sections: planet import/layout/sizing, then labels. Metadata checked: both 3024 × 1898 H.264 without audio. Visual content/continuity/privacy review pending; do not discard take01 as superseded. See assets.md for exact metadata. R04 is omitted by owner decision D011 because adjustments were minimal. R05 is the next capture; no staged design problems or before/after required.
+
+## R05 intake · 2026-10-19
+
+R05 supplied; metadata and frames at 1/15/29s plus screenshot reviewed. Step 1 has enlarged Earth at right; overview title/question remain at left. This intermediate copy can be resolved in R06 without repeating R05. Next: capture Step 1 detail copy and Back element; verify Base remains unchanged. Full playback, continuity/element identity, timing and privacy acceptance remain pending.
+
+## R06 intake · 2026-10-19
+
+R06 received (40.78s). File metadata and owner screenshot reviewed; complete video playback pending. Current detail view has Earth at right and Earth heading, detail copy and `Back` at left. Owner replaced title/description; verify unchanged Base in the actual editor before R07. Next capture: configure Earth Click → Step 1 and Step 1 Back Click → Base, using the actual saved controls. D012 adopts the supplied `Back` label; no return interaction is yet proven.

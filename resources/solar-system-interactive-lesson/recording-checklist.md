@@ -52,6 +52,8 @@ Owner declined a separate refinement capture because adjustments were minimal. N
 
 ### R05 · Create the Earth Step · S06
 
+Received `R05-earth-step-take01.mov` on 2026-10-19. Metadata and frames at 1/15/29s plus owner screenshot reviewed: Base overview, Step 1 rearrangement, enlarged Earth on the right; original heading/question remain on the left. No retake requested just for retained text; finish its replacement in R06. Full playback, source identity, return-to-Base proof and privacy clearance remain pending.
+
 - Start: polished Base with Earth visible; Steps controls visible.
 - Actions: add a Step from Steps controls; use a recognizable Earth name if naming is supported; select the existing/inherited Earth image element, enlarge and reposition it; rearrange other content for the focused view. Do not duplicate Earth into an independent object or reimport its PNG in the detail Step. Switch Base → new Step → Base to demonstrate state independence.
 - Result: Base still has the overview; the detail has the same Earth in focus. Hold each state 5 seconds.
@@ -59,22 +61,24 @@ Owner declined a separate refinement capture because adjustments were minimal. N
 
 ### R06 · Add Earth detail copy · S07
 
-- Start: Earth detail Step selected.
-- Actions: add `Earth`, `Third planet from the Sun`, and `Find Earth in the overview`; add a clearly visible text/shape control labeled `Back to overview`. Keep wording readable and unclipped.
+Received `R06-detail-copy-take01.mov` on 2026-10-19. Owner reports replacing the title/description and adding `Back`; screenshot shows Earth heading, two-line detail copy and Back text left, enlarged Earth right. Metadata checked only; full recording playback, text-edit scope, unchanged Base and privacy clearance are not verified. The screenshot Base thumbnail still displays the original heading, but this is not a substitute for checking the actual Base state. D012 aligns the return label to `Back`.
+
+- Start: Earth detail Step (`Step 1` in supplied R05) selected. Preserve the enlarged Earth on the right and the presentation name `Our Solar System`. Move the inherited `Our Solar System` heading and `Where is Earth?` question outside the slide in this Step, then add the new detail copy below. Do not change Base text; verify Base remains unchanged. Capture Base → Step → Base with five-second holds if not already recorded.
+- Actions: add `Earth`, `Third planet from the Sun`, and `Find Earth in the overview`; add a clearly visible text/shape control labeled `Back`. Keep wording readable and unclipped.
 - Result: focused explanation plus visible return element; do not imply it works yet. Hold 5 seconds.
 - File: `R06-detail-copy-take01.mp4`. Required; owner capture.
 
 ### R07 · Configure both interactions · S08
 
 - Start: Base selected, Earth visible.
-- Actions: select Earth → Properties → plus beside `Interactions` → event `Click` → navigation to the actual Earth Step destination → save using the actual form control. Then select detail Step → select `Back to overview` → Interactions plus → `Click` → destination `Base` → save. Hold the saved settings of each for 5 seconds.
+- Actions: select Earth → Properties → plus beside `Interactions` → event `Click` → navigation to the actual Earth Step destination → save using the actual form control. Then select detail Step → select `Back` → Interactions plus → `Click` → destination `Base` → save. Hold the saved settings of each for 5 seconds.
 - Result: state-specific saved interactions, not an unsaved form. Source guides verify Properties/Interactions/Click/Base; exact action/save labels and Step name must be checked in the live form.
 - File: `R07-configure-interactions-take01.mp4`. Required; owner capture. No account/sync prerequisites beyond authorized access to this example; hosted sharing is not used.
 
 ### R08 · Prove playback · S09 and derivative proof
 
 - Start: completed example in editor at Base.
-- Actions: use `Present`; hold overview; click Earth; hold 5 seconds; click `Back to overview`; hold 5 seconds; repeat round trip once without stopping. Capture full slide and cursor. Optional separate correction take only if a real problem is found.
+- Actions: use `Present`; hold overview; click Earth; hold 5 seconds; click `Back`; hold 5 seconds; repeat round trip once without stopping. Capture full slide and cursor. Optional separate correction take only if a real problem is found.
 - Result: readable, uninterrupted working journey; no properties panel acting as substitute for playback.
 - File: `R08-present-round-trip-take01.mp4`. Required; owner capture. Preserve natural transition duration.
 
