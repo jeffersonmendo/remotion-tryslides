@@ -54,3 +54,7 @@ Owner omitted separate refinement capture because changes were minimal. Current 
 ## R05 limited review · 2026-10-19
 
 Metadata, owner screenshot and extracted frames at 1/15/29s reviewed. Earth is enlarged at right in Step 1 with space for text left; overview heading/question still visible. Preserve capture and finish detail copy in R06. No full playback, Base round-trip/identity proof, final privacy acceptance or export review claimed. Container duration is 33.538333s but a 32s seek yielded no image; decoded-tail/timing investigation remains pending.
+
+## R09 limited review · 2026-10-19 · D013
+
+Metadata and one extracted frame at 8s inspected; menu labels match current S10 revision. Scope is export options overview, not export testing. No full hover/hold sequence, privacy clearance or successful HTML/PDF/editable import validated. Owner’s three files remain available for off-camera QA. No render, publication or commit performed.

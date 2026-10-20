@@ -2,7 +2,7 @@
 
 Production slug: `solar-system-interactive-lesson`. Version: v01, 2026-10-17.
 
-**Status: Planning — draft awaiting owner approval and required materials. Not ready for editing.**
+**Status: Awaiting review and narration — planned product recordings supplied; owner plan approval, full media/export review and audio remain pending. Not ready for final editing.**
 
 ## Current package
 
@@ -21,15 +21,15 @@ Production slug: `solar-system-interactive-lesson`. Version: v01, 2026-10-17.
 ## Exact blockers
 
 1. Owner approval of brief, script, storyboard, audience and full family.
-2. Remaining product captures R01/R07–R09 and lesson source/export files E01–E03; R02 and both R03 parts are supplied, but complete visual/privacy clearance remains pending.
+2. Complete playback/privacy/continuity review of supplied R01–R03 and R05–R09 (R04 omitted), plus validation of supplied lesson files E01–E03. Receipt does not establish usable coverage.
 3. English voice provider assignment and actual recorded narration; clean voice is required, music is optional.
 4. Material inspection, brand/font clearance and any selected audio licenses.
 
-R02 has been supplied as `recordings/R02-create-presentation-take01.mov` and received a metadata/sample-frame review on 2026-10-18. Other recordings, voice and lesson export files are still missing. Eight generated planet masters are now supplied; reduced copies were removed per D006; see [image import instructions](images/README.md). No user behavior or interface has been simulated as evidence. No placeholder animatic authorized.
+All planned recordings are now supplied: R01, R02, R03 in two consecutive parts, and R05–R09. R04 is omitted by D011; R09 is a menu walkthrough under D013. Metadata is recorded in assets.md; only limited sample-frame reviews have occurred. Nine generated Sun/planet masters and the three lesson export files are supplied. Narration is still missing. No footage, file-import/export success or privacy clearance is inferred from receipt alone. No placeholder animatic authorized.
 
 ## Locations and preview
 
-- Source archive: this package; recordings/ now contains the original R02 MOV; images/ contains only the eight master PNG assets under masters/, plus documentation/provenance; audio/ still contains only .gitkeep.
+- Source archive: this package; recordings/ contains nine original MOV files; files/ contains supplied HTML/PDF/.tryslides exports; images/ contains nine Sun/planet master PNGs under masters/ plus documentation/provenance; audio/ still contains only .gitkeep.
 - Proposed future implementation: `src/videos/solar-system-interactive-lesson/` (not created).
 - Proposed future public media: `public/videos/solar-system-interactive-lesson/` (not created; never copy private raw recordings wholesale).
 - Proposed export root: `out/solar-system-interactive-lesson/v01/` (not created).
@@ -37,7 +37,7 @@ R02 has been supplied as `recordings/R02-create-presentation-take01.mov` and rec
 
 ## Next action
 
-Owner reviews the plan. R02 is supplied; retain its Dark presentation theme. Then dry-run the remaining product actions and capture R07 → R08 → R09 → R01, following recording-checklist.md. Agent-created transparent planet masters are supplied for a uniform-size overview; see images/README.md and verify live import before recording. Assign the English voice provider before audio production. Update readiness after actual media inspection and approval.
+Review complete recordings for coverage, readability, continuity, privacy, source timing and successful navigation; validate the supplied HTML/PDF/editable package off-camera. Record any exact gaps instead of requesting blanket retakes. Then reconcile the plan with verified coverage, obtain owner approval and assign/produce English narration. No additional capture is requested merely because files have variable timing or non-16:9 framing. Final editing remains gated by review, approval and material readiness.
 
 ## R02 intake · 2026-10-18
 
@@ -58,3 +58,19 @@ R05 supplied; metadata and frames at 1/15/29s plus screenshot reviewed. Step 1 h
 ## R06 intake · 2026-10-19
 
 R06 received (40.78s). File metadata and owner screenshot reviewed; complete video playback pending. Current detail view has Earth at right and Earth heading, detail copy and `Back` at left. Owner replaced title/description; verify unchanged Base in the actual editor before R07. Next capture: configure Earth Click → Step 1 and Step 1 Back Click → Base, using the actual saved controls. D012 adopts the supplied `Back` label; no return interaction is yet proven.
+
+## R07 intake · 2026-10-19
+
+R07 supplied as `recordings/R07-configure-interactions-take01.mov` (23.44s); file and metadata checked, not visual interaction settings or playback. Owner reports completion. Next capture: R08 in Present, uninterrupted overview → Earth detail → Back round trip twice, with reading holds. Do not equate configuration-file receipt with working navigation proof. No automatic commit or push authorized by this hand-off.
+
+## R08 and export files received · 2026-10-19
+
+R08 supplied (35.80s); file metadata checked, complete round-trip playback/privacy review pending. Found lesson HTML/PDF/.tryslides in `files/` with original `Our Solar System` filenames; files not opened or tested yet. E01–E03 are present, not validated. Next: R09 record actual HTML opening and Earth/Back test, plus PDF inspection; preserve existing exports and avoid duplicate downloads. R01 hero capture still outstanding.
+
+## R09 received / scope simplified · 2026-10-19
+
+Owner supplied R09 (17.68s) after choosing the shorter menu-overview treatment, D013. Metadata and 8s menu frame checked, not full playback/privacy. S10 narration/storyboard/checklist aligned: real menu choices plus explanatory comparison; file validation stays off-camera and pending. Next owner recording: R01 clean result in Present; preserve full slide, overview → Earth → Back with five-second holds, repeat once. Overall approval, narration and complete media/export review still outstanding.
+
+## R01 intake / planned captures supplied · 2026-10-19
+
+`recordings/R01-finished-result-take01.mov` is present: 27.625s container duration, 3024 × 1898 H.264, no audio. Metadata checked only; hero framing, round trips, holds, actual decoded timing and privacy remain unreviewed. All requested capture IDs are supplied except intentionally omitted R04; this is intake completion, not production or final-review completion. No commit, push, render or editing authorization inferred from this hand-off.

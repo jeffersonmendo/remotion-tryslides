@@ -82,3 +82,7 @@ Source: F008, explicit owner decision. Reason: adjustments were minimal; no sepa
 ## D012 · 2026-10-19 · Match the recorded return label Back
 
 Source: F010, owner-created R06 text control. Scope: this lesson only. Current script, timeline and capture instructions use the supplied `Back` label instead of planned `Back to overview`; destination remains Base. Shorter label trades explicit destination wording for brevity; keep narration clear about the return destination. Label is visible in screenshot, not evidence of a saved interaction. Verify Base text after owner-reported content replacement before proceeding. No full plan approval or completed playback proof inferred.
+
+## D013 · 2026-10-19 · Use a short export-menu walkthrough
+
+Source: F013 and supplied R09. Supersedes R09 on-camera HTML/PDF opening and testing requirements; preserve filename. Use real Downloads menu with format narration/comparison. Explain sending an editable .tryslides copy for the recipient to import/edit independently, not live collaboration. Actual 8s sample shows Editable, Offline, Plain text (.txt), PDF (slides + Steps), and Import presentation. Off-camera HTML navigation, PDF page and editable-import validation remain required before final claims. Tradeoff: less capture work and clearer format summary, but menu visibility alone is not export-functionality evidence. Current S10 script/timeline and capture inventory updated; timing provisional, full video review pending.

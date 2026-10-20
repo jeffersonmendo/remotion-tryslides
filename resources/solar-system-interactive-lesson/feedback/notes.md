@@ -46,3 +46,19 @@ Owner reports creating Step 1, moving other images/labels outside and enlarging 
 ## F010 · 2026-10-19 · Owner R06 hand-off
 
 Owner supplied R06 and screenshot, reporting replacement of heading/description plus addition of `Back` text. Screenshot supports the detail layout; file/metadata confirmed. No full video review or working navigation inferred.
+
+## F011 · 2026-10-19 · Owner R07 hand-off
+
+Owner reports R07 complete. `R07-configure-interactions-take01.mov` is present; metadata checked. Saved destinations and real playback remain subject to review and R08 proof.
+
+## F012 · 2026-10-19 · Owner R08 hand-off
+
+Owner reports R08 complete. Expected MOV exists and metadata checked, not complete playback. Three lesson export files also found in `files/`; current intake records distinguish receipt from functionality validation. Next required recording remains R09, then R01.
+
+## F013 · 2026-10-19 · Simplify R09 and supplied menu capture
+
+Owner proposed menu-hover footage or narration instead of recording export opening/tests, then supplied R09 after the short-menu recommendation. Accepted scope is the menu walkthrough; no permission to skip off-camera export QA inferred.
+
+## F014 · 2026-10-19 · Owner R01 hand-off
+
+Owner reports R01 complete. Expected original MOV exists and metadata checked. Planned captures are supplied, excluding owner-omitted R04. No full media-review completion or final production-plan approval inferred.

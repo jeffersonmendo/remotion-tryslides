@@ -60,9 +60,9 @@ Use Present to test the route as your audience will experience it. First, pause 
 
 ## S10 · 11:35–12:40 · Choose the right output
 
-The delivery format changes what the audience can do. For browser playback with Steps and interactions, export HTML and open the downloaded result in a browser. Test the same route there: overview, Earth, and back. Do not assume that a successful editor preview proves the exported file works. If you need a static handout, PDF serves a different purpose. It produces pages for Base and each Step, but it does not preserve the interactive navigation or animation. In other words, HTML is for this interactive experience, while PDF is for the static views. You can also keep an editable tryslides package as a portable copy of the presentation. None of these is a video export. The tutorial you are watching is edited separately. Choose the format for what your learner needs, and inspect the actual file before sending it.
+The delivery format changes what the audience can do. Open the presentation menu and look under Downloads. Editable gives you a tryslides file: a portable copy you can keep as a backup or send to someone else. They can import it into TrySlides and edit their own copy. That is a file hand-off, not live collaboration. Offline is the HTML option for browser playback with Steps and interactions. PDF gives you static pages for the slide and its Steps, without the interactive navigation or animation. Plain text gives you the written content without the images or visual layout. Choose the format for what your learner needs. Before sending a file, open and check it: test the route in HTML, inspect the PDF pages, or verify the editable copy imports correctly. None of these options is a video export. The tutorial you are watching is edited separately.
 
-[Hold on the resulting visual long enough to read; follow the corresponding timeline action. Do not read this cue aloud.]
+[Revised per D013. Show real R09 menu plus clearly editorial format comparison. Do not imply this shot shows successful downloads, HTML playback or PDF/import validation. Those checks remain off-camera QA. Timing is provisional until revised narration is recorded.]
 
 ## S11 · 12:40–13:30 · Turn the example into a reusable method
 

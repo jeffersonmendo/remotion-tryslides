@@ -1,6 +1,6 @@
 # Owner capture checklist — v01
 
-Status: R02 received and sample frames inspected; R03 received as two consecutive MOV parts with metadata checked, visual review pending. R01/R05–R09 still requested; R04 omitted by owner decision D011. First approve the plan and do a product dry run. If the interface differs, send a screenshot and environment/version instead of guessing. Final narration should wait until the dry run confirms the actions.
+Status: all planned recordings supplied as of 2026-10-19: R01/R02/R03 (two parts)/R05/R06/R07/R08/R09. R04 omitted (D011); R09 is menu overview (D013). Complete playback/privacy/continuity review remains pending; no blanket retakes requested. Export files exist but are not yet validated.
 
 ## What you need to find or supply
 
@@ -70,6 +70,8 @@ Received `R06-detail-copy-take01.mov` on 2026-10-19. Owner reports replacing the
 
 ### R07 · Configure both interactions · S08
 
+Received `R07-configure-interactions-take01.mov` on 2026-10-19; owner reports completion. File presence and metadata checked only. Saved destinations, both state-specific interactions, full playback and privacy remain unverified. R08 must prove the actual round trip in Present.
+
 - Start: Base selected, Earth visible.
 - Actions: select Earth → Properties → plus beside `Interactions` → event `Click` → navigation to the actual Earth Step destination → save using the actual form control. Then select detail Step → select `Back` → Interactions plus → `Click` → destination `Base` → save. Hold the saved settings of each for 5 seconds.
 - Result: state-specific saved interactions, not an unsaved form. Source guides verify Properties/Interactions/Click/Base; exact action/save labels and Step name must be checked in the live form.
@@ -77,20 +79,25 @@ Received `R06-detail-copy-take01.mov` on 2026-10-19. Owner reports replacing the
 
 ### R08 · Prove playback · S09 and derivative proof
 
+Received `R08-present-round-trip-take01.mov` on 2026-10-19. Owner reports completion; file/metadata checked only. Complete uninterrupted round-trip playback, reading holds and privacy review remain pending. Existing exports also found under `files/`; retain those names/paths rather than requesting duplicate downloads.
+
 - Start: completed example in editor at Base.
 - Actions: use `Present`; hold overview; click Earth; hold 5 seconds; click `Back`; hold 5 seconds; repeat round trip once without stopping. Capture full slide and cursor. Optional separate correction take only if a real problem is found.
 - Result: readable, uninterrupted working journey; no properties panel acting as substitute for playback.
 - File: `R08-present-round-trip-take01.mp4`. Required; owner capture. Preserve natural transition duration.
 
-### R09 · Export and test · S10
+### R09 · Export-menu overview · S10 · D013
 
-- Start: completed presentation, all assets available; check save status and, if using cloud, wait for synchronized status. No second-device or hosted-share claim is needed.
-- Actions: open actual presentation menu; download HTML; open actual downloaded file in browser; test Earth → Back uninterrupted. Return to editor; download PDF; open and show Base and Earth Step pages as static pages. Download editable `.tryslides` backup as well. Capture actual selected format labels; do not show sensitive filesystem paths in video.
-- Result: real HTML navigation and actual PDF pages. If export fails, keep evidence privately and report blocker; do not use a graphic as a replacement result.
-- File: `R09-export-and-test-take01.mp4`. Required; owner capture. Separate `-html` and `-pdf` takes are acceptable if browser/file opening needs a cut; navigation proof itself must be continuous.
-- Put source outputs in this private archive directory: `recordings/our-solar-system-v01.html`, `recordings/our-solar-system-v01.pdf`, `recordings/our-solar-system-v01.tryslides`. These are lesson assets, not delivered tutorial videos.
+Received `R09-export-and-test-take01.mov` on 2026-10-19; filename retained although revised scope is menu overview, not on-camera export testing. Metadata and frame at 8s reviewed; complete playback/privacy pending.
+
+- Owner-selected scope: open presentation menu → `Downloads`, hover format choices and hold menu. No separate on-camera browser/PDF test required.
+- Visible labels at 8s: `Editable`, `Offline`, `Plain text (.txt)`, `PDF (slides + Steps)`; main menu includes `Import presentation`. Explain corresponding formats .tryslides, HTML, TXT, PDF without inventing labels.
+- Files already supplied privately: `files/Our Solar System.html`, `files/Our Solar System.pdf`, `files/Our Solar System.tryslides`. Off-camera HTML round-trip, PDF page and editable-import checks remain pending. Menu visibility does not establish successful exports.
+- Preserve original; no duplicate export downloads required. R01 is next.
 
 ### R01 · Opening and closing result · S01/S12
+
+Received `R01-finished-result-take01.mov` on 2026-10-19; metadata checked only (27.625s, 3024 × 1898, H.264, no audio). Complete hero playback, round trips, holds and privacy review pending.
 
 - Start: completed example in Present, Base, no editor chrome.
 - Actions: hold overview 5 seconds; click Earth; hold detail 5 seconds; click Back; hold overview 5 seconds. Repeat once with cursor parked away from text.
