@@ -45,7 +45,6 @@
 - Tradeoff: smaller source files give correct initial geometry but cannot supply crisp enlarged detail. Preserve high-resolution masters and replace the source on the same Earth element, retaining its overview size, before making the detail Step.
 - Verification: alpha/dimensions and native-size visual review completed; live import and owner approval pending. Supersedes owner-supplied-file requirement for these generated assets, not the preference for individual PNGs.
 
-
 ## D006 · 2026-10-18 · Keep only planet masters and use uniform visual sizing
 
 - Source: explicit owner preference for all planets at the same size and instruction to delete the other versions, retaining masters.
@@ -86,3 +85,7 @@ Source: F010, owner-created R06 text control. Scope: this lesson only. Current s
 ## D013 · 2026-10-19 · Use a short export-menu walkthrough
 
 Source: F013 and supplied R09. Supersedes R09 on-camera HTML/PDF opening and testing requirements; preserve filename. Use real Downloads menu with format narration/comparison. Explain sending an editable .tryslides copy for the recipient to import/edit independently, not live collaboration. Actual 8s sample shows Editable, Offline, Plain text (.txt), PDF (slides + Steps), and Import presentation. Off-camera HTML navigation, PDF page and editable-import validation remain required before final claims. Tradeoff: less capture work and clearer format summary, but menu visibility alone is not export-functionality evidence. Current S10 script/timeline and capture inventory updated; timing provisional, full video review pending.
+
+## D014 · 2026-10-19 · Align narration preparation to supplied captures
+
+Source: F016, explicit preparation scope. Script v02 uses recorded curved image layout, varying sizes, Step 1, inherited Earth, R05 intermediate text, R06 replacement, Back and actual Downloads labels. Removed unrecorded numbered-grid, fixed import-order and on-camera export-test instructions. Keep scientific qualification as a clearly editorial future video overlay; do not invent a slide action. Twelve spoken-only scene exports, combined text, timing manifest and pronunciation/recording guidance derive from script.md. English text totals 1,800 words. Status: prepared/submitted for approval, not owner-approved; no voice/source selected, no audio generated and no final-edit approval inferred. Tradeoff: preserves real footage without retakes but needs purposeful concept/result beats beyond raw action duration; time windows remain estimates until real voice. Scope is this video only, not global guidance.

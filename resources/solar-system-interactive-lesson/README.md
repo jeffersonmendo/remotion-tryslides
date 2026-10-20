@@ -1,13 +1,13 @@
 # Build an interactive solar system lesson in TrySlides
 
-Production slug: `solar-system-interactive-lesson`. Version: v01, 2026-10-17.
+Production slug: `solar-system-interactive-lesson`. Planning revision: v02, 2026-10-19; first video output version remains v01.
 
-**Status: Awaiting review and narration — planned product recordings supplied; owner plan approval, full media/export review and audio remain pending. Not ready for final editing.**
+**Status: Narration received; awaiting plan approval and audio review — owner confirms recording review and lesson-export validation complete; agent full-playback review not performed. Not ready for final editing.**
 
 ## Current package
 
 - [Brief](brief.md): recommended teacher audience, English delivery, result-first ~14-minute tutorial.
-- [English script](script.md): complete scene-organized narration, approximately 1739 spoken words, estimated timings rather than a recorded runtime.
+- [English script](script.md): complete scene-organized narration, v02, 1,800 spoken words, aligned to supplied captures; submitted for approval, estimated timings rather than a recorded runtime.
 - [Audiovisual storyboard / derived edits](timeline.md): 12 scenes, 840 seconds / 25,200 frames at 30 fps; four distinct 50-second cutdowns mapped to this source.
 - [Owner recording checklist](recording-checklist.md): settings, exact actions, clean holds, filenames and capture order for nine shots.
 - [Assets and evidence](assets.md), [delivery inventory](deliverables.md), [feedback](feedback/notes.md), [decisions](feedback/decisions.md), [review](review.md).
@@ -16,20 +16,20 @@ Production slug: `solar-system-interactive-lesson`. Version: v01, 2026-10-17.
 
 - Confirmed by owner: English video; prepare script/resources and explain owner capture/material needs.
 - Recommended, not yet approved: teacher audience, transparent-PNG solar-system example (planet imagery approved by owner; broader plan still pending), detailed script/storyboard and delivery designs.
-- Facts: grounded in project/product source guides; running deployment and exported behavior have NOT been checked.
+- Facts: grounded in project/product source guides; owner reports navigation and supplied-export validation complete; agent has not independently performed full playback/export tests.
 
 ## Exact blockers
 
 1. Owner approval of brief, script, storyboard, audience and full family.
-2. Complete playback/privacy/continuity review of supplied R01–R03 and R05–R09 (R04 omitted), plus validation of supplied lesson files E01–E03. Receipt does not establish usable coverage.
-3. English voice provider assignment and actual recorded narration; clean voice is required, music is optional.
+2. Owner confirms recording legibility/continuity/navigation/privacy review and HTML/PDF/.tryslides validation complete (F015 / review.md). This blocker is closed on owner-reported review, not independent agent verification. Agent source-timing/decode investigation remains a technical editing check, not a request to repeat owner QA.
+3. All 12 owner-supplied narration MP3s are present (`audio/S01.mp3`–`audio/S12.mp3`), totaling 712.855 seconds (11:52.855). Metadata checked; listening, script alignment and audio rights confirmation remain pending. Music optional.
 4. Material inspection, brand/font clearance and any selected audio licenses.
 
-All planned recordings are now supplied: R01, R02, R03 in two consecutive parts, and R05–R09. R04 is omitted by D011; R09 is a menu walkthrough under D013. Metadata is recorded in assets.md; only limited sample-frame reviews have occurred. Nine generated Sun/planet masters and the three lesson export files are supplied. Narration is still missing. No footage, file-import/export success or privacy clearance is inferred from receipt alone. No placeholder animatic authorized.
+All planned recordings are now supplied: R01, R02, R03 in two consecutive parts, and R05–R09. R04 is omitted by D011; R09 is a menu walkthrough under D013. Metadata is recorded in assets.md; only limited sample-frame reviews have occurred. Nine generated Sun/planet masters and the three lesson export files are supplied. All 12 narration MP3s are now supplied; listening and script alignment remain pending. No footage, file-import/export success or privacy clearance is inferred from receipt alone. No placeholder animatic authorized.
 
 ## Locations and preview
 
-- Source archive: this package; recordings/ contains nine original MOV files; files/ contains supplied HTML/PDF/.tryslides exports; images/ contains nine Sun/planet master PNGs under masters/ plus documentation/provenance; audio/ still contains only .gitkeep.
+- Source archive: this package; recordings/ contains nine original MOV files; files/ contains supplied HTML/PDF/.tryslides exports; images/ contains nine Sun/planet master PNGs under masters/ plus documentation/provenance; audio/ contains S01.mp3–S12.mp3 and the v02 narration text package under narration/.
 - Proposed future implementation: `src/videos/solar-system-interactive-lesson/` (not created).
 - Proposed future public media: `public/videos/solar-system-interactive-lesson/` (not created; never copy private raw recordings wholesale).
 - Proposed export root: `out/solar-system-interactive-lesson/v01/` (not created).
@@ -37,7 +37,7 @@ All planned recordings are now supplied: R01, R02, R03 in two consecutive parts,
 
 ## Next action
 
-Review complete recordings for coverage, readability, continuity, privacy, source timing and successful navigation; validate the supplied HTML/PDF/editable package off-camera. Record any exact gaps instead of requesting blanket retakes. Then reconcile the plan with verified coverage, obtain owner approval and assign/produce English narration. No additional capture is requested merely because files have variable timing or non-16:9 framing. Final editing remains gated by review, approval and material readiness.
+Confirm owner approval of the current brief, script, storyboard and delivery family before final editing. Review the supplied narration against script v02 and establish measured scene timing; 11:52.855 of source audio is not the final video runtime. Preserve intentional visual holds within the planned 12–20 minute source video. No edit, render or audio-content review has been performed during this intake.
 
 ## R02 intake · 2026-10-18
 
@@ -74,3 +74,11 @@ Owner supplied R09 (17.68s) after choosing the shorter menu-overview treatment, 
 ## R01 intake / planned captures supplied · 2026-10-19
 
 `recordings/R01-finished-result-take01.mov` is present: 27.625s container duration, 3024 × 1898 H.264, no audio. Metadata checked only; hero framing, round trips, holds, actual decoded timing and privacy remain unreviewed. All requested capture IDs are supplied except intentionally omitted R04; this is intake completion, not production or final-review completion. No commit, push, render or editing authorization inferred from this hand-off.
+
+## Owner source-review confirmation · 2026-10-19 · F015
+
+Owner explicitly confirms completed recording review (legibility, continuity, navigation, private information) and HTML/PDF/editable-import validation. Accepted as owner-reported review of supplied materials, not an agent playback/testing claim or approval of the full plan. Historical intake entries describe the earlier pending state; this confirmation supersedes their owner-QA pending status. No repeat QA request absent new evidence.
+
+## Script and narration preparation · 2026-10-19 · F016 / D014
+
+Script v02 now matches recorded curved layout, varying planet sizes, Step 1, retained intermediate R05 title/question, R06 text replacement, Back text and R09 menu. No R04, numbered rows, fixed import order or on-camera export tests invented. Scientific scale qualification is a future editorial overlay, not a fabricated existing slide element. Twelve spoken-only scene texts plus combined text, manifest and delivery/pronunciation notes prepared under audio/narration/. 1,800 words estimates ~12.4–13.8 minutes of voice at 145–130 wpm before meaningful visual holds. No audio generated, voiced review, captions, edit, render, commit or push performed. Await owner script approval and voice selection.

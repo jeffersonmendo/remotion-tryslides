@@ -2,23 +2,23 @@
 
 At creation no media existed. Update 2026-10-18: R02 MOV received and metadata/sample frames inspected; no full playback or audio listening review. Other captures and audio remain missing. All raw material remains private in this package; no render-ready copies have been created.
 
-| ID          | Purpose / source path                                                                       | Supplier and rights                                                             | Availability / verification                                               | Future cleared render copy                                                                                           |
-| ----------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| E01         | `files/Our Solar System.tryslides`                                                 | Owner-created lesson backup                                                     | Present; file existence only, not opened/validated                                                                   | Not public by default                                                                                                |
-| E02         | `files/Our Solar System.html`                                                      | Owner-created lesson HTML                                                       | Present; browser interaction test pending                                             | Not public by default                                                                                                |
-| E03         | `files/Our Solar System.pdf`                                                       | Owner-created lesson handout                                                    | Present; Base + Step inspection pending                                         | Not public by default                                                                                                |
-| G01         | Question and three-stage story diagram, S02                                                 | Agent-created editorial graphic after approval                                  | Planned; not product UI                                                   | Local editable Remotion scene when approved                                                                          |
-| G02         | Hierarchy annotations over actual finished R03 stills, S05                                             | Agent layout + owner recording                                                  | Planned; requires visual review of R03 result (D011)                                                     | As above                                                                                                             |
-| G03         | Base/Step concept diagram, S06                                                              | Agent; distinctly illustrative, not fabricated app behavior                     | Planned                                                                   | As above                                                                                                             |
-| G04         | HTML/PDF comparison, S10                                                                    | Agent; facts supported by source guides                                         | Planned; actual result proof uses R09                                     | As above                                                                                                             |
-| G05         | Five-step recap, S11                                                                        | Agent-created graphic                                                           | Planned                                                                   | As above                                                                                                             |
-| G06         | Closing CTA and logo frame, S12                                                             | Agent layout + verified original logo                                           | Planned; no launch/access promise                                         | As above                                                                                                             |
-| B01         | `../tryslides/public/logotipo.png` relative to workspace parent; product-repo original      | Owner brand; permission/use clearance before public delivery                    | Location documented; not copied or visually inspected for this production | `public/shared/` only after clearance                                                                                |
-| F01         | Product repo `public/fonts/Geist/variable/Geist-Variable.woff2`, NOTICE.txt and LICENSE.txt | Documented SIL OFL; preserve actual notices                                     | Source path documented; files/notices not copied or revalidated           | `public/shared/fonts/` only when needed                                                                              |
-| A01         | English narration `audio/S01-voice-v01.wav` through `S12-voice-v01.wav`                     | Provider unassigned; owner approval and rights required                         | Missing; script first, then dry read and recording                        | Cleared edited narration under per-video public audio path                                                           |
-| A02         | Optional instrumental bed                                                                   | No track selected; license must cover YouTube/Reels and intended commercial use | Not required to start capture; no rights assumed                          | Pending exact track and license                                                                                      |
-| A03         | Optional restrained reveal/click accents                                                    | Agent synthesis or licensed source; never imply app-native audio                | Planned; no asset exists                                                  | Pending                                                                                                              |
-| C01         | English captions derived from edited A01                                                    | Agent transcription/alignment after audio edit                                  | Missing; no timestamps fabricated                                         | Editable caption data in per-video source                                                                            |
+| ID  | Purpose / source path                                                                       | Supplier and rights                                                             | Availability / verification                                               | Future cleared render copy                                 |
+| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| E01 | `files/Our Solar System.tryslides`                                                          | Owner-created lesson backup                                                     | Present; file existence only, not opened/validated                        | Not public by default                                      |
+| E02 | `files/Our Solar System.html`                                                               | Owner-created lesson HTML                                                       | Present; browser interaction test pending                                 | Not public by default                                      |
+| E03 | `files/Our Solar System.pdf`                                                                | Owner-created lesson handout                                                    | Present; Base + Step inspection pending                                   | Not public by default                                      |
+| G01 | Question and three-stage story diagram, S02                                                 | Agent-created editorial graphic after approval                                  | Planned; not product UI                                                   | Local editable Remotion scene when approved                |
+| G02 | Hierarchy annotations over actual finished R03 stills, S05                                  | Agent layout + owner recording                                                  | Planned; requires visual review of R03 result (D011)                      | As above                                                   |
+| G03 | Base/Step concept diagram, S06                                                              | Agent; distinctly illustrative, not fabricated app behavior                     | Planned                                                                   | As above                                                   |
+| G04 | HTML/PDF comparison, S10                                                                    | Agent; facts supported by source guides                                         | Planned; actual result proof uses R09                                     | As above                                                   |
+| G05 | Five-step recap, S11                                                                        | Agent-created graphic                                                           | Planned                                                                   | As above                                                   |
+| G06 | Closing CTA and logo frame, S12                                                             | Agent layout + verified original logo                                           | Planned; no launch/access promise                                         | As above                                                   |
+| B01 | `../tryslides/public/logotipo.png` relative to workspace parent; product-repo original      | Owner brand; permission/use clearance before public delivery                    | Location documented; not copied or visually inspected for this production | `public/shared/` only after clearance                      |
+| F01 | Product repo `public/fonts/Geist/variable/Geist-Variable.woff2`, NOTICE.txt and LICENSE.txt | Documented SIL OFL; preserve actual notices                                     | Source path documented; files/notices not copied or revalidated           | `public/shared/fonts/` only when needed                    |
+| A01 | English narration `audio/S01.mp3` through `audio/S12.mp3`                     | Provider unassigned; owner approval and rights required                         | All 12 MP3s present; metadata checked; listening/alignment pending                        | Cleared edited narration under per-video public audio path |
+| A02 | Optional instrumental bed                                                                   | No track selected; license must cover YouTube/Reels and intended commercial use | Not required to start capture; no rights assumed                          | Pending exact track and license                            |
+| A03 | Optional restrained reveal/click accents                                                    | Agent synthesis or licensed source; never imply app-native audio                | Planned; no asset exists                                                  | Pending                                                    |
+| C01 | English captions derived from edited A01                                                    | Agent transcription/alignment after audio edit                                  | Missing; no timestamps fabricated                                         | Editable caption data in per-video source                  |
 
 ## Evidence register
 
@@ -48,10 +48,9 @@ Eight assets P-MERCURY through P-NEPTUNE are now created by the agent using buil
 
 All eight import files passed RGBA/alpha and dimension checks and native-size visual review. Derivatives created by proportional sips downscale; no upscaling. AI illustrations, not scientific photography or true-scale geometry. Owner visual acceptance, live import confirmation, final usage-size inspection and publication clearance remain pending; no public media copies created. The agent generation provenance replaces the request for owner source URLs for these eight assets only.
 
-
 ## D006 asset update · 2026-10-18
 
-Owner requested uniform planet sizing and removal of reduced copies. Deleted only `images/<planet>.png` for all eight planets; preserved `images/masters/<NN>-<planet>-master.png` byte-for-byte and kept provenance. Active P-* assets now map directly to masters. Earlier derivative-size/ready-sized-import instructions are superseded. No small-source replacement step is needed for Earth. See images/README.md for uniform visual globe sizing, import cap evidence and Saturn aspect-ratio caveat. No automatic equal visible diameter or live import verification is claimed.
+Owner requested uniform planet sizing and removal of reduced copies. Deleted only `images/<planet>.png` for all eight planets; preserved `images/masters/<NN>-<planet>-master.png` byte-for-byte and kept provenance. Active P-\* assets now map directly to masters. Earlier derivative-size/ready-sized-import instructions are superseded. No small-source replacement step is needed for Earth. See images/README.md for uniform visual globe sizing, import cap evidence and Saturn aspect-ratio caveat. No automatic equal visible diameter or live import verification is claimed.
 
 ## P-SUN · 2026-10-18
 
@@ -69,9 +68,9 @@ Owner correction supersedes D009 ordering: masters now sort from `01-neptune-mas
 
 Owner describes part 01 as importing, arranging and resizing planets; part 02 as adding labels. These are consecutive sections, not competing takes despite the filenames. Use both in S04 order 01 → 02; no rename or public copy created.
 
-| Source | Duration | Bytes | Metadata | Review |
-| --- | --- | --- | --- | --- |
-| `recordings/R03-build-overview-take01.mov` | 70.366667 s | 35,303,300 | H.264, 3024 × 1898, average rate 972000/22711 (~42.80 fps), no audio stream | File/metadata checked only |
+| Source                                     | Duration    | Bytes      | Metadata                                                                     | Review                     |
+| ------------------------------------------ | ----------- | ---------- | ---------------------------------------------------------------------------- | -------------------------- |
+| `recordings/R03-build-overview-take01.mov` | 70.366667 s | 35,303,300 | H.264, 3024 × 1898, average rate 972000/22711 (~42.80 fps), no audio stream  | File/metadata checked only |
 | `recordings/R03-build-overview-take02.mov` | 92.973333 s | 35,784,202 | H.264, 3024 × 1898, average rate 1624800/57277 (~28.37 fps), no audio stream | File/metadata checked only |
 
 No constant frame rate, content completeness, matching continuity, image quality, clean holds or privacy clearance inferred. Check the Sun, planet order, labels, `Simplified diagram — sizes and distances not to scale` and `Click Earth to explore` during visual review. Preserve originals.
@@ -101,3 +100,30 @@ Also found owner-created `files/Our Solar System.html`, `files/Our Solar System.
 ## R01 intake · 2026-10-19
 
 `recordings/R01-finished-result-take01.mov`: 37,278,060 bytes; 27.625000 seconds container duration; H.264, 3024 × 1898, average stream rate 53700/4393 (~12.22 fps); no audio stream. Owner reports completion; file presence and metadata checked only. Do not infer smoothness, constant frame rate, complete round trips/holds, privacy or hero framing without playback review. Original unchanged. All planned capture IDs are now present except intentionally omitted R04; R03 has two sequential files and R09 follows the short menu scope. Complete review and off-camera E01–E03 validation remain pending. No public copies or export render created.
+
+## Owner QA status update · 2026-10-19 · F015
+
+Owner confirms supplied recording legibility/continuity/navigation/privacy review and HTML/PDF/.tryslides validation complete. This supersedes earlier owner-QA-pending labels for those supplied materials; review.md records attribution. Independent agent full-playback/export verification has not occurred. Originals/public paths unchanged; final-use source decoding/timing, brand/font/audio clearance and rendered-output QA remain separate.
+
+## A01 narration text prepared · 2026-10-19 · v02
+
+`audio/narration/` contains 12 scene TXT files, combined spoken-only TXT, manifest-v02.json and recording/pronunciation README derived from script.md. Text ready for owner approval; provider/voice and rights remain unassigned. No WAV/MP3 or caption timestamps produced. Planned voice paths now audio/S01-voice-v02.wav through S12-voice-v02.wav. No TTS tool exposed in session, external text submission or paid audio service selected. Source narration must be approved and a voice selected before production.
+
+## A01 narration received · 2026-10-19 · F017
+
+Owner reports all narration recorded. Twelve MP3s verified present, all MP3 / 44,100 Hz / mono; total container duration 712.855 seconds (11:52.855). Originals preserved. Metadata only: no listening, full decode, transcript alignment, voice/provider attribution or rights verification performed. This supersedes earlier missing-audio status and planned WAV filenames; it does not approve the full production plan.
+
+| Scene | Source file | Duration (seconds) |
+| --- | --- | ---: |
+| S01 | `audio/S01.mp3` | 36.676 |
+| S02 | `audio/S02.mp3` | 59.011 |
+| S03 | `audio/S03.mp3` | 65.881 |
+| S04 | `audio/S04.mp3` | 85.943 |
+| S05 | `audio/S05.mp3` | 54.517 |
+| S06 | `audio/S06.mp3` | 81.084 |
+| S07 | `audio/S07.mp3` | 64.862 |
+| S08 | `audio/S08.mp3` | 69.564 |
+| S09 | `audio/S09.mp3` | 54.935 |
+| S10 | `audio/S10.mp3` | 58.932 |
+| S11 | `audio/S11.mp3` | 52.062 |
+| S12 | `audio/S12.mp3` | 29.388 |

@@ -14,7 +14,6 @@
 - Interpretation: “create the video in resources” is treated as preparing the production package, not permission to skip material and approval gates. No rendered-video completion claimed.
 - Open: approve recommended teacher audience, brief, narration, storyboard and delivery family; assign voice provider; supply and verify real captures.
 
-
 ## F003 · 2026-10-18 · Owner planet sizing feedback
 
 Owner prefers equal-size planet visuals instead of unequal sizes. Explicitly requested deleting other image variants and keeping masters. Addressed by D006; no image regeneration or master alteration requested.
@@ -62,3 +61,15 @@ Owner proposed menu-hover footage or narration instead of recording export openi
 ## F014 · 2026-10-19 · Owner R01 hand-off
 
 Owner reports R01 complete. Expected original MOV exists and metadata checked. Planned captures are supplied, excluding owner-omitted R04. No full media-review completion or final production-plan approval inferred.
+
+## F015 · 2026-10-19 · Owner confirms source QA already complete
+
+Owner states that recording review (legibility, continuity, navigation, private information) and supplied HTML/PDF/.tryslides validation are already complete. Current package status updated to acknowledge owner-reported completion without claiming independent agent tests. Do not ask owner to repeat these checks absent a concrete new issue. Full-plan approval and narration remain separate.
+
+## F016 · 2026-10-19 · Prepare capture-aligned script and English narration
+
+Owner asks agent to continue with script alignment for approval and English narration preparation. Implemented script v02 and derived spoken text hand-off, not audio production. No voice/provider specified; no TTS tool exposed. User request authorizes these preparation tasks, not blanket final-edit approval or a particular synthetic voice.
+
+## F017 · 2026-10-19 · Owner narration hand-off
+
+Owner reports all audio recorded. Verified S01.mp3–S12.mp3 exist and probed metadata: 712.855 seconds total. Audio receipt closes the missing-narration blocker only; listening, script alignment, rights and broader plan approval remain separate. No final editing or export authorization inferred.

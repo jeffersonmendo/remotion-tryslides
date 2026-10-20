@@ -107,3 +107,7 @@ Received `R01-finished-result-take01.mov` on 2026-10-19; metadata checked only (
 ## Hand-off manifest
 
 For each file provide filename, capture date, environment URL/build if known, browser, native dimensions/fps, interface language, known errors, privacy clearance and whether cursor/zoom effects were baked in. Do not include passwords or session tokens. Actual materials and approvals will update README and assets; supplying files does not automatically approve their use.
+
+## Owner QA completed · 2026-10-19 · F015
+
+Owner confirms full recording review and supplied HTML/PDF/editable-import checks already completed. Earlier pending-QA statements are historical and superseded for owner review; agent full-playback testing is not claimed. No additional capture or repetition of these checks requested. Next production work is script/plan alignment and approval, followed by English narration.

@@ -38,7 +38,6 @@ Metadata and five representative frames inspected locally; original unchanged. C
 
 Eight AI-generated PNG imports inspected visually at native resolution. All eight are RGBA with alpha spanning 0–255 and match intended dimensions; each remains unchanged under the inspected import-size formula. Eight generated masters retained; all downsizing proportional via sips, originals untouched. Earth/Saturn master outputs viewed. No UI footage fabricated. Initial-size PNGs must not be enlarged as detail sources: source-replace the same Earth element with its master while retaining Base geometry before Step creation. Actual running import/replacement behavior and final large-size asset quality still require verification. No render, full playback review, upload or publication performed.
 
-
 ## Master-only asset cleanup · 2026-10-18
 
 At explicit owner request, removed the eight reduced planet PNGs only. Verified that all eight expected masters remain, retain RGBA alpha, and have identical SHA-256 hashes before/after cleanup. Active image instructions now point to masters directly; the low-resolution source-replacement step is retired. No visual re-render or live import test performed. Uniform visible globe sizing remains an editor layout task, with Saturn's aspect ratio preserved.
@@ -58,3 +57,21 @@ Metadata, owner screenshot and extracted frames at 1/15/29s reviewed. Earth is e
 ## R09 limited review · 2026-10-19 · D013
 
 Metadata and one extracted frame at 8s inspected; menu labels match current S10 revision. Scope is export options overview, not export testing. No full hover/hold sequence, privacy clearance or successful HTML/PDF/editable import validated. Owner’s three files remain available for off-camera QA. No render, publication or commit performed.
+
+## Owner source QA completed · 2026-10-19 · F015
+
+- Reviewer: owner, explicit chat confirmation that both previously listed tasks are already complete.
+- Scope: supplied recordings reviewed for legibility, continuity, navigation and private information; supplied HTML tested, PDF reviewed and .tryslides import checked.
+- Evidence level: owner-reported completion, not independent agent full-playback/export verification. No build/browser identifiers, per-shot notes or measured performance supplied; do not invent them.
+- Status: owner source QA and supplied-file validation considered complete. Supersedes earlier entries marking these owner checks pending; retain historical limited agent-review records accurately.
+- Remaining: reconcile/approve current script and production plan, assign/record English narration, clear remaining brand/font/audio assets and review source decoding/timing during implementation. Final rendered-output QA remains required. No whole-plan approval, measured audience results, final edit or render inferred.
+
+## Script/narration preparation review · 2026-10-19 · v02
+
+Current script reconciles recorded layout/actions and accepted omissions; owner source QA attribution remains F015. Four additional frames inspected for alignment only: R03 part01 60s, part02 80s, R07 10s, R08 18s. Supports curved layout/labeling, Earth saved Click → Go to Step 1 and a presentation overview. Not a new full-playback/export test. Spoken text artifacts are derived from script.md; 12 scenes, 1,800 words. Speech estimate ~12.4–13.8 minutes at 145–130 wpm, not measured runtime. Original 14-minute chapter budgets/cutdown windows require actual audio retiming. No audio listened to or generated, no final editing/render; text approval and voice/provider selection pending.
+
+### v02 text checks
+
+- Passed: all 12 scene TXT files exactly match spoken portions of script.md; combined TXT matches scene concatenation; manifest totals 1,800 words; local Markdown links resolve; no WAV audio exists or is reported as generated.
+- Prettier check passed for script, timeline, brief, package README and narration README/manifest; git diff --check passed.
+- Documentation/text changes only: npm lint/build/test:scaffold not run because no implementation or scaffold code changed. These checks are not an audio listening review, measured runtime or final video QA.

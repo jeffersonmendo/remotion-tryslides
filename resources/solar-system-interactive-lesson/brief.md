@@ -1,6 +1,6 @@
-# Production brief — v01
+# Production brief — v02
 
-Date: 2026-10-17. Status: Draft awaiting owner approval.
+Updated: 2026-10-19. Status: capture-aligned draft submitted for owner approval. Script v02 and narration text prepared; no audio produced.
 
 ## Intent
 
@@ -18,20 +18,20 @@ Date: 2026-10-17. Status: Draft awaiting owner approval.
 
 ## Product grounding
 
-- Manual workflow: desktop → blank presentation → text and transparent PNG planet images → Base → one Step → state-specific Click interactions → Present → HTML/PDF inspection.
+- Manual workflow: desktop → blank presentation → text and transparent PNG planet images → Base → one Step → state-specific Click interactions → Present → export-menu overview; owner reports off-camera HTML/PDF/editable-import validation complete (F015).
 - Build from blank; solar-system example is not a catalog template. No MCP or external AI connection in this production.
-- Presentation: Our solar system; one slide, Base and one Earth detail Step. Eight labeled planet markers; only Earth is interactive. Caption near the overview: “Click Earth to explore”.
+- Presentation: Our solar system; one slide, Base and one Earth detail Step. Eight labeled planet markers; only Earth is interactive. Optional future video overlay: “Click Earth to explore”; not claimed as existing recorded slide text.
 - Scientific scope: ordered planet names and Earth as third planet from Sun. All graphics explicitly simplified; sizes/distances not to scale. No orbital animation, orbital speed or scale claims.
 - Product references: [product](../../docs/tryslides/product.md), [claims](../../docs/tryslides/limits-and-claims.md), [audiovisual](../../docs/tryslides/audiovisual-direction.md), [visual identity](../../docs/tryslides/visual-identity.md).
 - English product source guides inspected on 2026-10-17 in sibling `tryslides/content/docs/`: `getting-started.mdx`, `design/shapes.mdx`, `design/text.mdx`, `motion/steps.mdx`, `motion/interactions.mdx`, `motion/present.mdx`, `files/export.mdx`. This is repository evidence, NOT a deployed walkthrough verification.
 - Documented account requirement: Google sign-in; no Pro-only hosted sharing needed. Owner must confirm actual environment, available controls, plan and version/date before recording.
 - Proof gates: inherited Earth identity, unchanged Base, saved per-state interactions, uninterrupted round trip in Present, downloaded HTML round trip, actual static PDF.
-- Publication blockers: deployed behavior and exact labels untested; footage absent; exported files uninspected. Never fabricate screen behavior to match the script.
+- Current readiness: captures and exports supplied; owner confirms source QA and export/import checks complete (F015). Agent has inspected metadata and selected frames only. Full-plan approval, actual narration, remaining brand/font clearance and final composition/export review are pending. Never fabricate screen behavior to match the script.
 
 ## Visual direction
 
 - Editorial graphics: Paper #F4F1E9, Ink #242322, Blue #4565EE; Geist. These are production recommendations, not a new brand book.
-- Lesson artwork: owner-selected Dark presentation theme, black background and contrasting light text (D008) and separate transparent PNG images for each planet, per owner decision D004. Keep a consistent visual style; labels and order numbers carry meaning independently of color. Eight AI-generated planet masters are now supplied; originals/alpha verified. Owner selected uniform visual globe sizes and removed reduced import copies (D006). They are illustrative, not scientific photographs; live import and owner approval remain pending. Sun artwork is now supplied as `images/masters/09-sun-master.png` per owner request D007; import it with the eight planet masters.
+- Lesson artwork: owner-selected Dark presentation theme, black background and contrasting light text (D008) and separate transparent PNG images for each planet, per owner decision D004. Keep a consistent visual style; editable labels and the recorded arrangement carry meaning independently of color; no order numbers are visible in reviewed source samples. Eight AI-generated planet masters are now supplied; originals/alpha verified. Owner earlier selected uniform visual sizing and removed reduced import copies (D006); the supplied layout uses visibly varying image sizes, so this script follows the recorded result and makes no uniform-size claim. They are illustrative, not scientific photographs; owner reports source/import QA complete (F015); final production-plan approval remains pending. Sun artwork is now supplied as `images/masters/09-sun-master.png` per owner request D007; import it with the eight planet masters.
 - Use separate PNG planet images and editable text inside TrySlides. Preserve the same Earth image element between Base and the detail Step; do not replace it with a fresh import. Generated provenance is recorded in images/generation-manifest.json. Read images/README.md before capture: import the masters directly, use uniform globe sizing without stretching Saturn, and retain the same Earth element for the Step enlargement. Original logo/font source paths tracked in assets; no replacements invented.
 - Mix actual UI/action evidence, progressive concept diagrams, annotated hierarchy explanation over the actual finished overview (D011; no before/after), result playback and short chapter titles. No persistent idle editor background.
 - Start with full context; crop controls only when teaching them, then return to the result. Vertical versions are separately reframed.
@@ -39,7 +39,7 @@ Date: 2026-10-17. Status: Draft awaiting owner approval.
 
 ## Audio and captions
 
-- Calm, clear English voiceover; friendly teacher-to-teacher, not a sales read. Presenter/voice provider unassigned; no synthetic voice or voice cloning authorized.
+- Calm, clear English voiceover; friendly teacher-to-teacher, not a sales read. Presenter/voice provider unassigned; no synthetic voice or voice cloning chosen. Spoken English text is prepared in audio/narration/ (v02), with pronunciation, per-scene files and timing estimates; actual audio remains blocked on script approval and voice/provider selection.
 - Record after script approval and a product dry run. Separate clean narration is recommended; no microphone needed on UI recordings.
 - Quiet instrumental bed is optional: light opening, low under explanations, modest lift on successful playback, resolved ending. No mandatory paid music search.
 - Agent can create diagrams, captions and editorial effects after approval. License any music/effects before use; a voice-only version is valid if music is not cleared.
